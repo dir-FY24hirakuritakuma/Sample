@@ -1,14 +1,14 @@
 package sample;
 
 public class Variable {
-    public static void main(String[]arges) {
+
+    public static void main(String[] args) {
         var number1 = 1;
-        System.out.printlen(number1);
+        System.out.println(number1);
         
         String str1;
         str1 = "abc";
-        System.out.append(0)
-        
+        System.out.println(str1);
     }
-    
+
 }
